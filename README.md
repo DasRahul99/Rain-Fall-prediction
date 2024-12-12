@@ -1,2 +1,2 @@
 # Rain-Fall-prediction
-Using machine learning classification models models I predicted if there wil be rainfall tomorrow or not.
+Using machine learning classification models models I predicted if there will be rainfall tomorrow or not.
